@@ -3,8 +3,6 @@ h2 {
     color: greenyellow;   
     border-bottom: 1px greenyellow;
     text-decoration: underline;
-    padding-bottom: 5px;
-    margin-top: 30px;
     font-size: 230%;
     }
     h1 {
@@ -19,8 +17,6 @@ h2 {
     background-color: grey;
     color: greenyellow;
     width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
     }
     header{
     background-color: solid grey;
@@ -31,17 +27,10 @@ h2 {
     width: 1200px;
     background-color: gray;
     border: 1px greenyellow;
-    padding: 45px; 
-    margin: 45px;
-    padding: 45px;
-    border-radius: 1px;
     }
     footer {
     text-align: center;
     color: greenyellow;
-    border-radius: 15px;
-    margin-top: 35px;
-    padding: 5px;
     text-align: center;
     width: 1000px;
     }
@@ -49,8 +38,4 @@ h2 {
         width: 1200px;
         background-color: gray;
         border: 1px greenyellow;
-        padding: 45px; 
-        margin: 45px;
-        padding: 45px;
-        border-radius: 1px;
-        }
+    }
