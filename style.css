@@ -40,117 +40,17 @@ h2 {
     text-align: center;
     color: greenyellow;
     border-radius: 15px;
-    margin-left: 50px;
     margin-top: 35px;
     padding: 5px;
     text-align: center;
     width: 1000px;
     }
-    
-    
-    .pages {
-    border: 1px solid transparent;
-    margin: 12px;
-    padding: 4px;
-    padding-left: 4px;
-    padding-right: 4px;
-    font-size: 25px;
-    text-decoration: none;
-    }
-    
-    a {
-    color: blue;
-    text-decoration: underline;
-    }
-    
-    a:hover {
-    color: rgb(41, 120, 224);
-    }
-    
-    a:active {
-    color: rgb(32, 0, 105);
-    }
-    
-    abbr {
-    font-style: italic;
-    color: darkgoldenrod;
-    }
-    
-    abbr:hover {
-    color: rgb(145, 106, 9);
-    }
-    
-    abbr:active {
-    color: rgb(105, 77, 4);
-    }
-    
-    .hd {
-    margin-left: 112px;
-    }
-    
-    .windows {
-    margin-left: auto;
-    margin-right: auto;
-    }
-    
-    .dvd {
-    margin-right: 112px;
-    margin-left: 17px;
-    }
-    
-    .bity {
-    margin-left: 250px;
-    width: 50%;
-    }
-    
-    .dll {
-    margin-left: 390px;
-    }
-    
-    .active {
-    border: 1px solid black;
-    margin: 15px;
-    padding: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    font-size: 25px;
-    text-decoration: none;
-    border-radius: 5px;
-    }
-    
-    .mp {
-    border: 1px solid black;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 25px;
-    }
-    
-    .mpdiv {
-    border: 1px solid black;
-    background-color: solid grey;
-    border-radius: 15px;
-    margin-left: 278px;
-    margin-top: 20px;
-    padding: 10px;
-    text-align: center;
-    width: 50%;
-    }
-    
-    .mpodkaz {
-    width: 50%;
-    color: black;
-    text-decoration: none;
-    font-size: 25px;
-    }
-    
-    .stranky {
-    font-size: 25px;
-    text-decoration: none;
-    color: blue;
-    font-style: normal;
-    }
-    
-    .stranky:hover {
-    color: rgb(1, 14, 196);
-    }
+    section{
+        width: 1200px;
+        background-color: gray;
+        border: 1px greenyellow;
+        padding: 45px; 
+        margin: 45px;
+        padding: 45px;
+        border-radius: 1px;
+        }
