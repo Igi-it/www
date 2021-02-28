@@ -3,6 +3,8 @@ h2 {
     color: greenyellow;   
     border-bottom: 1px greenyellow;
     text-decoration: underline;
+    padding-bottom: 5px;
+    margin-top: 30px;
     font-size: 230%;
     }
     h1 {
@@ -17,6 +19,8 @@ h2 {
     background-color: grey;
     color: greenyellow;
     width: 1200px;
+    margin-left: center;
+    margin-right: center;
     }
     header{
     background-color: solid grey;
@@ -27,15 +31,18 @@ h2 {
     width: 1200px;
     background-color: gray;
     border: 1px greenyellow;
+    padding: 30px; 
+    margin: 30px;
+    padding: 30px;
+    border-radius: 1px;
     }
     footer {
     text-align: center;
     color: greenyellow;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 5px;
     text-align: center;
     width: 1000px;
-    }
-    section{
-        width: 1200px;
-        background-color: gray;
-        border: 1px greenyellow;
     }
