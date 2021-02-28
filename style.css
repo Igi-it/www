@@ -18,29 +18,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     background-color: grey;
     color: greenyellow;
-    width: 1200px;
     margin-left: center;
     margin-right: center;
-    }
-    header{
-    background-color: solid grey;
-    text-decoration: underline;
-    }
-    
-    main{
-    width: 1200px;
-    background-color: gray;
-    border: 1px greenyellow;
-    margin-left: center;
-    margin-right: center;
-    }
-    footer {
-    text-align: center;
-    color: greenyellow;
-    border-radius: 15px;
-    margin-left: center;
-    margin-right: center;
-    padding: 5px;
-    text-align: center;
-    width: 1000px;
     }
