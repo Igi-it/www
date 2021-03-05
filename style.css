@@ -1,5 +1,5 @@
 h2 {
-    text-align: center;
+    text-align: left;
     color: greenyellow;   
     border-bottom: 1px greenyellow;
     text-decoration: underline;
@@ -22,5 +22,5 @@ h2 {
     color: greenyellow;
     margin-left: center;
     margin-right: center;
-    text-align: center;
+    text-align: left;
     }
